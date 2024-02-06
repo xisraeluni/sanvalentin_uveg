@@ -3,7 +3,7 @@ body {
  /*background: rgb(234, 223, 153);*/
  background-image: url(./img/uveg_fondo2.png);
  height: 100%;
- display: flex;
+ /*display: flex;*/
  flex-direction: column;
  justify-content: center;
  align-items: center;
