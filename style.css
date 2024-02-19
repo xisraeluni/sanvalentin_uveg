@@ -3,6 +3,7 @@ body {
  background: rgba(118, 240, 240, 0.517);
  background-image: url(./img/uveg_fondo2.png);
  background-repeat: no-repeat;
+ background-size: cover;
  height: 100%;
  display: flex;
  flex-direction: column;
